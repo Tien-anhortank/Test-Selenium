@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.20.0",
+    "until": "^0.1.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-html-reporter": "^3.10.2",
+    "mocha": "^10.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}
